@@ -1,7 +1,7 @@
 global.owner = ['6283162498175']  
 global.mods = ['6283162498175'] 
 global.prems = ['6283162498175']
-global.nameowner = 'Dikk'
+global.nameowner = 'Diki'
 global.numberowner = '6283162498175'
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
